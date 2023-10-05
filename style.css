@@ -1,0 +1,21 @@
+
+
+.photo{
+  float: right;
+   background-color: rgb(255, 238, 244);
+}
+#nani{
+    background-color: rgb(255, 238, 244);
+    
+}
+.cont{
+    margin-top: 56px;
+    clear: right;
+}
+.footer{
+    margin-top: 300px;
+}
+
+/* d-flex  flex-column align-content-start      position: relative;
+    top: -30px;
+ */
